@@ -1,3 +1,3 @@
-# template-react-repo
+# react-router
 
-React repository setup with React, ESLint, Prettier, Tailwind, Typescript, Vitest & React Testing Library
+React router lesson from TOP
